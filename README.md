@@ -1,5 +1,4 @@
-# PRODIGY_CS_03
-## Password Complexity Checker Program in Python
+# Password Complexity Checker Program in Python
 - A simple tool used to check password's complexity
 - Supports the feature for showing and hiding the password (consider this as an add-on)
 - Can detect common password patters such as "abc", "password", etc.
